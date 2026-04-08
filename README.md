@@ -5,6 +5,9 @@
   <img src="https://img.shields.io/badge/Level-Staff%20Grade-7c3aed?style=for-the-badge" alt="Staff Grade" />
   <img src="https://img.shields.io/badge/Theme-Dark%20Mode%20First-111827?style=for-the-badge" alt="Dark Mode First" />
   <img src="https://img.shields.io/badge/Status-Production%20Ready-16a34a?style=for-the-badge" alt="Production Ready" />
+  <a href="https://fullstack-atlas.vercel.app">
+    <img src="https://img.shields.io/badge/LIVE%20DEMO-Open%20App-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
 </p>
 
 **FullStack Atlas** is a premium Full Stack Developer Roadmap Platform designed like a real SaaS product.
@@ -25,6 +28,7 @@ It combines roadmap guidance, docs-style learning, and progress analytics in one
 - [Local Setup](#local-setup)
 - [Production Build](#production-build)
 - [Deployment](#deployment)
+- [Screenshots](#screenshots)
 - [Portfolio Positioning](#portfolio-positioning)
 - [Next Iterations](#next-iterations)
 
@@ -210,6 +214,15 @@ dist
 
 ---
 
+## Screenshots
+
+> Replace these placeholders with actual deployed UI captures after first production deployment.
+
+![FullStack Atlas Hero](https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1600&q=80)
+![FullStack Atlas Dashboard](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1600&q=80)
+
+---
+
 ## Portfolio Positioning
 
 When presenting this project in resume/interviews, pitch it as:
@@ -238,5 +251,4 @@ Focus on these discussion points:
 
 ## License
 
-For personal learning and portfolio showcase.  
-Add your preferred OSS license if open-sourcing publicly.
+Licensed under the MIT License. See `LICENSE`.
